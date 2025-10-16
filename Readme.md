@@ -1,7 +1,3 @@
-Here’s a **detailed and clearly written README.md** file for your project **“Blog Writer Agent with Langflow (RAG-based)”** — professionally formatted and easy to follow for any developer or student:
-
----
-
 # 🧠 Blog Writer Agent with Langflow (RAG-Based)
 
 This project is an intelligent **AI-powered Blog Writer Agent** built using **Langflow**, integrating **Retrieval-Augmented Generation (RAG)** architecture. It combines **IBM Embedding Models** and **Google Gemini Flash 2.0** to create long, detailed, and human-like blog posts based on reference documents and user queries.
@@ -237,5 +233,6 @@ The system will use:
 | Frontend             | **Streamlit**                            |
 | Backend API          | **Langflow Flow API**                    |
 | Programming Language | **Python 3.10**                          |
+
 
 

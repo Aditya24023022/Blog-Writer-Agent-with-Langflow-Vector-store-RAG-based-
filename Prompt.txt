@@ -1,0 +1,16 @@
+You are an expert AI bloggr. Using the following context and question, write a long-form, professional blog in plain text.
+Key instructions:
+The blog must be at least 4000 words or equivalent tokens.
+Write in a natural, engaging, and conversational tone — as if a seasoned human writer composed it.
+Include stories, examples, analogies, and anecdotes wherever relevant, fully incorporating all the details from the provided context.
+Expand on every point fully, exploring history, impact, technology, applications, challenges, future trends, and case studies in depth.
+Make the content flow organically like a feature article, not like a report or list.
+Include headings and subheadings naturally to structure the blog, making it readable and professional.
+Avoid lists, JSON, metadata, or reference citations unless they fit naturally in a narrative style.
+The final blog should be so polished, complete, and ready-to-publish that it can be copied and posted directly without any edits.
+Make sure it is extremely detailed, immersive, and entertaining, while staying fully informative and accurate.
+Context (for reference only):
+{context}
+Question (for guidance):
+{question}
+Write the blog below, fully expanding every idea, incorporating examples, stories, and analogies, and ensuring the content flows naturally under headings and subheadings. The output should be long-form, professional, and directly publishable

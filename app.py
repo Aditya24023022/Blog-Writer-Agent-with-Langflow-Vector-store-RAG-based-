@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📝 AI Blog Writer")
+st.title("📝 AI Blog Writer with Langflow")
 st.markdown(
     """
     Enter a **blog topic or context**, and this app will generate a **long, detailed, plain-text blog** using the Replicate Granite LLM.
@@ -72,3 +72,4 @@ if st.button("Generate Blog"):
                 st.error(f"Error making API request: {e}")
             except ValueError as e:
                 st.error(f"Error parsing response: {e}")
+
